@@ -5,6 +5,30 @@
 
 <br/>
 
+# Screenshots
+
+![Preview 1](/screenshots/1.png)
+
+<br/>
+
+# Setup
+
+- Clone the repository
+```
+git@github.com:Guri-X/Taeaki-Useless-App.git
+cd Taeaki-Useless-App
+```
+
+- Install required modules
+```
+npm install
+```
+
+- Run
+```
+npm start
+```
+
 # References
 
 - https://react.dev/
